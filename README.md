@@ -1,4 +1,10 @@
-### Hi there 👋
+### I use Arch btw :exploding_head:
+
+I'm a final year undergrad at UCSD studying molecular biology and math. **I'm currently applying to PhD programs!** If you're in the systems/synthetic/computational biology space, I probably want to work with you. Feel free to email me at ```xsnvmv@hpfq.rqh``` (ROT13) and let's talk science!
+
+Likes: quantitative biology, open source/science, self-hosting
+
+Dislikes: fossil fuels, adtech monopolies, nuclear proliferation
 
 <!--
 **kfaizi/kfaizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
