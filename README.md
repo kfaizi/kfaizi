@@ -1,6 +1,8 @@
 ### I use Arch btw :exploding_head:
 
-I'm a final year undergrad at UCSD studying molecular biology and math. **I'm currently applying to PhD programs!** If you're in the systems/synthetic/computational biology space, I probably want to work with you. Feel free to email me at ```xsnvmv@hpfq.rqh``` (ROT13) and let's talk science!
+I'm interested in building computational tools to accelerate biological discovery. 
+
+Let's collaborate! Email me at ```xsnvmv@hpfq.rqh``` (ROT13)
 
 Likes: quantitative biology, open source/science, self-hosting
 
